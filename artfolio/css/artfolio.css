@@ -1,0 +1,22 @@
+input#artfolio-medium,
+input#artfolio-material {
+  width: 80%;
+  margin: 10px;
+  text-align: left;
+}
+
+input#artfolio-year,
+input#artfolio-edition,
+input#artfolio-dimensions {
+  width: 40%;
+  margin: 10px;
+  text-align: left;
+}
+
+textarea {
+  width: 100%;
+  min-height: 150px;
+  margin: 0 auto;
+  text-align: left;
+}
+/*# sourceMappingURL=artfolio.css.map */
